@@ -1,0 +1,60 @@
+.layout{
+  font-family: 'Times New Roman' inherit;
+    color: darkred;
+    margin: 1px 0 0px 0;
+    background-color: grey;
+    border: 1px solid darkgrey;
+    border-style: groove;
+    text-align: center;
+    outline : groove;
+    outline-color: grey;
+
+}
+
+.line{
+  background-color: darkgrey;
+  border-top: 6px solid grey;
+  border: 3px groove grey;
+}
+
+html, body {height:100%;}
+html {display:table; width:100%;}
+body {display:table-cell; text-align:center; vertical-align:middle;}
+}
+.ws{
+background-color: darkgrey;
+
+
+}
+body{ margin:3 3;
+      display: block;
+      margin: center;}
+
+
+
+img {
+    border: 3px solid darkred;
+    display:inline-block;
+
+}
+
+.btn {
+  background: #90989e;
+  background-image: -webkit-linear-gradient(top, #90989e, #2d3133);
+  background-image: -moz-linear-gradient(top, #90989e, #2d3133);
+  background-image: -ms-linear-gradient(top, #90989e, #2d3133);
+  background-image: -o-linear-gradient(top, #90989e, #2d3133);
+  background-image: linear-gradient(to bottom, #90989e, #2d3133);
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: Arial;
+  color: #c72222;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
